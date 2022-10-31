@@ -1,6 +1,3 @@
-from unittest import result
-
-
 def f_x(x):
     if x < 0:
         return 0

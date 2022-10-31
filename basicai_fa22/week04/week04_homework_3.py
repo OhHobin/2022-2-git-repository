@@ -15,7 +15,7 @@ for i in read:
         avg.append(np.mean(i[1:]))
     except:
         pass
-
+    
 for i in range(len(x)):
     if i == 0:
         x[i].append('합계')
